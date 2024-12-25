@@ -56,6 +56,9 @@
     },
     "importantInformation": {
       "type": "json"
+    },
+    "discountPercentage": {
+      "type": "integer"
     }
   }
 }
